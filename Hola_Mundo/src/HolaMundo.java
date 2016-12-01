@@ -5,6 +5,8 @@ public class HolaMundo {
 		System.out.println("Hola DECASYS");
 		
 		System.out.println("Buen día LL");
+		
+		System.out.println("adios LL");
 	}
 
 }
