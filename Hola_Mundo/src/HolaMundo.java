@@ -6,7 +6,7 @@ public class HolaMundo {
 		
 		System.out.println("Buen día LL");
 		
-		System.out.println("adios LLv");
+		System.out.println("adios LLcv");
 	}
 
 }
